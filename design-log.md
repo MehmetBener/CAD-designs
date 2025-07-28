@@ -38,7 +38,7 @@ This document tracks my progress, reflections, and technical notes as I develop 
 - Used **Loft** for an organic bottle shape.
 - Learned the difference between **centerline** and **guide rails**.
 
-### My Fusion Notes to Myself
+### My Fusion Notes
 - Prefer modeling fillet over sketch fillet in general. However, if you're using loft or sweep, you must use sketch fillets instead.
 - You can draw sketches in mid-air using a construction plane.
 - When creating an offset plane from another offset plane, changing the parent plane will shift the child plane too. For more consistent positioning, always offset from the origin planes instead.
