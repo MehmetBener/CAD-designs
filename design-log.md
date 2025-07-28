@@ -33,7 +33,7 @@ This document tracks my progress, reflections, and technical notes as I develop 
 - Added a 5 mm circular hole and applied **Fillets** to the corners.
 - This was my first fabrication-ready design — could be printed directly.
 
-### 🔸 Perfume Bottle
+### Perfume Bottle
 - Designed with 8 main profile sketches across offset planes.
 - Used **Loft** for an organic bottle shape.
 - Learned the difference between **centerline** and **guide rails**.
