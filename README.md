@@ -1,6 +1,6 @@
 # CAD-Designs
 
-This repository contains my personal Fusion 360 design portfolio. Each folder in the [Projects](./Projects) folder represents a standalone project made uniquely by me, while each folder in the [Learn Fusion in 30 Days](./Learn Fusion in 30 Days) folder represents designs I made while following the "Learn Fusion in 30 Days" course by the Product Design Online youtube channel.
+This repository contains my personal Fusion 360 design portfolio. Each folder in the [Projects](./Projects) folder represents a standalone project made uniquely by me, while each folder in the [Learn Fusion in 30 Days](./Learn_Fusion_in_30_Days) folder represents designs I made while following the "Learn Fusion in 30 Days" course by the Product Design Online youtube channel.
 
 ## 📁 Projects
 
