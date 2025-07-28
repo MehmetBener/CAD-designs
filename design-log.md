@@ -49,5 +49,9 @@ This document tracks my progress, reflections, and technical notes as I develop 
 - Apply fillets before using the shell command to avoid errors or distorted edges.
 - The shell command works on a single, continuous solid body.
 - Threads in Fusion 360 are visual-only and won’t appear in exported STL files or 3D prints.
+- Shell command needs to operate on the whole body.
+- Threads are only images and are not included in exports and prints.
+- Choose “Compute Type” as Optimal if you want the fastest editor experience when doing rectangular patterns.
+- Always use constraints over dimensions when possible.
 
 ---
