@@ -8,7 +8,6 @@ This document tracks my progress, reflections, and technical notes as I develop 
 
 | Date       | Project           | Activity/Update                              | Key Tools Learned                       |
 |------------|-------------------|----------------------------------------------|-----------------------------------------|
-| 2025-07-4  | Charge_Head        | Modeled a USB charge head block with rounded edges | Extrude, Fillet, Chamfer, Revolve |
 | 2025-07-11 | Map_of_Turkiye    | Created 3D map by sketching over canvas image| Canvas, Sketching, Extrude              |
 | 2025-07-11 | Keychain_Tag      | Designed custom keychain with engraved text  | Text Tool, Constraints, Fillet, Extrude |
 | 2025-07-28 | Perfume_Bottle    | Created a multi-profile bottle with thread and loft | Loft, Offset Planes, Guide Rails |
@@ -16,10 +15,6 @@ This document tracks my progress, reflections, and technical notes as I develop 
 ---
 
 ## Notes & Reflections
-
-### Charge Head
-- Practiced basic block modeling with symmetry and port cutouts.
-- Used fillets and chamfers to soften the design like a real charger.
 
 ### Map of Türkiye
 - Imported an image of the country using the **Canvas** feature.
